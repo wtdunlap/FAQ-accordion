@@ -11,7 +11,7 @@
 body {
     background-repeat:repeat-x;
     background-color: var(--lightPink);
-    background-image: url("/assets/images/background-pattern-desktop.svg");
+    background-image: url("assets/images/background-pattern-desktop.svg");
 
     font-family: "Work Sans", sans-serif;
     display: flex;
@@ -67,7 +67,7 @@ body {
 
 @media only screen and (max-width: 500px) {
     body {
-        background-image: url("/assets/images/background-pattern-mobile.svg");
+        background-image: url("assets/images/background-pattern-mobile.svg");
     }
     .card {
         width: 85%;
