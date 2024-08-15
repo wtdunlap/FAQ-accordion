@@ -24,7 +24,7 @@ I was unable to implement keyboard navigation for this project. I couldn't think
 ### Links
 
 - Solution URL: [GitHub](https://github.com/wtdunlap/FAQ-accordion)
-- Live Site URL: [Add live site URL here](https://wtdunlap.github.io/FAQ-accordion/)
+- Live Site URL: [GitHub Pages](https://wtdunlap.github.io/FAQ-accordion/)
 
 ## Author
 
